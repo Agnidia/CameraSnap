@@ -18,7 +18,7 @@ Once you have your Swift package set up, adding CameraSnap as a dependency is as
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/IGRSoft/CameraSnap.git", .upToNextMajor(from: "0.3.0"))
+    .package(url: "https://github.com/Agnidia/CameraSnap.git", .upToNextMajor(from: "0.3.0"))
 ]
 ```
 
